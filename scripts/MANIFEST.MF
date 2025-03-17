@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: anbtrfl
+Main-Class: info.kgeorgiy.ja.riazanova.implementor.Implementor
+Class-Path: info.kgeorgiy.java.advanced.implementor.jar
+
